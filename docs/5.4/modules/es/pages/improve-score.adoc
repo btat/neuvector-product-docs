@@ -1,6 +1,6 @@
 = Mejorar la puntuación de riesgo de seguridad
 :page-languages: [en, de, es, fr, ja, pt, zh]
-:revdate: 27-09-2024
+:revdate: 2024-09-27
 :page-revdate: {revdate}
 :page-opendocs-origin: /04.navigation/03.improve_score/03.improve_score.md
 :page-opendocs-slug:  /navigation/improve_score
